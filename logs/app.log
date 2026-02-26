@@ -1,0 +1,133 @@
+2026-02-20 14:45:53 [restartedMain] INFO  se.iths.yunus.javatools.Application - Starting Application using Java 24.0.2 with PID 8141 (/Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob/target/classes started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-20 14:45:53 [restartedMain] INFO  se.iths.yunus.javatools.Application - No active profile set, falling back to 1 default profile: "default"
+2026-02-20 14:45:55 [restartedMain] INFO  se.iths.yunus.javatools.Application - Started Application in 1.91 seconds (process running for 7.305)
+2026-02-20 14:46:07 [http-nio-8080-exec-3] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-20 14:46:07 [http-nio-8080-exec-3] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: namn 'Hawaii'
+2026-02-20 14:46:07 [http-nio-8080-exec-3] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: topping 'Annanas & Skinka'
+2026-02-20 14:46:07 [http-nio-8080-exec-3] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: ost 'Ja'
+2026-02-20 14:46:07 [http-nio-8080-exec-3] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: pris 99
+2026-02-20 14:46:10 [http-nio-8080-exec-4] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-20 14:46:45 [restartedMain] INFO  se.iths.yunus.javatools.Application - Starting Application using Java 24.0.2 with PID 8160 (/Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob/target/classes started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-20 14:46:45 [restartedMain] INFO  se.iths.yunus.javatools.Application - No active profile set, falling back to 1 default profile: "default"
+2026-02-20 14:46:47 [restartedMain] INFO  se.iths.yunus.javatools.Application - Started Application in 1.931 seconds (process running for 7.407)
+2026-02-20 14:46:50 [http-nio-8080-exec-2] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-20 14:49:33 [http-nio-8080-exec-4] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-20 14:51:41 [http-nio-8080-exec-6] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-20 14:51:50 [http-nio-8080-exec-7] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-20 14:52:05 [http-nio-8080-exec-9] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-20 14:52:05 [http-nio-8080-exec-9] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: namn 'Hawaii'
+2026-02-20 14:52:05 [http-nio-8080-exec-9] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: topping 'Annanas & Skinka'
+2026-02-20 14:52:05 [http-nio-8080-exec-9] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: ost 'Ja'
+2026-02-20 14:52:05 [http-nio-8080-exec-9] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: pris 99
+2026-02-20 14:52:17 [restartedMain] INFO  se.iths.yunus.javatools.Application - Starting Application using Java 24.0.2 with PID 8233 (/Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob/target/classes started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-20 14:52:17 [restartedMain] INFO  se.iths.yunus.javatools.Application - No active profile set, falling back to 1 default profile: "default"
+2026-02-20 14:52:20 [restartedMain] INFO  se.iths.yunus.javatools.Application - Started Application in 3.459 seconds (process running for 8.797)
+2026-02-20 14:52:21 [http-nio-8080-exec-1] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-20 14:52:46 [http-nio-8080-exec-2] INFO  s.i.y.javatools.service.PizzaService - Hämtar pizza med id: 3
+2026-02-20 14:52:49 [http-nio-8080-exec-3] INFO  s.i.y.javatools.service.PizzaService - Hämtar pizza med id: 3
+2026-02-20 14:52:50 [http-nio-8080-exec-4] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-20 14:52:56 [http-nio-8080-exec-5] INFO  s.i.y.javatools.service.PizzaService - Hämtar pizza med id: 3
+2026-02-20 14:52:59 [http-nio-8080-exec-6] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-20 14:53:03 [http-nio-8080-exec-7] INFO  s.i.y.javatools.service.PizzaService - Tar bort pizza med id: 8
+2026-02-20 14:53:03 [http-nio-8080-exec-7] INFO  s.i.y.javatools.service.PizzaService - Pizza med id 8 borttagen
+2026-02-20 14:53:03 [http-nio-8080-exec-8] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-24 11:43:11 [main] INFO  s.i.yunus.javatools.ApplicationTests - Starting ApplicationTests using Java 24.0.2 with PID 3633 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 11:43:11 [main] INFO  s.i.yunus.javatools.ApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 11:43:13 [main] INFO  s.i.yunus.javatools.ApplicationTests - Started ApplicationTests in 1.994 seconds (process running for 2.659)
+2026-02-24 11:43:13 [main] INFO  s.i.y.javatools.service.PizzaService - Tar bort pizza med id: 1
+2026-02-24 11:43:13 [main] INFO  s.i.y.javatools.service.PizzaService - Pizza med id 1 borttagen
+2026-02-24 11:43:13 [main] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-24 11:43:13 [main] INFO  s.i.y.javatools.service.PizzaService - Uppdaterar pizza med id: 1
+2026-02-24 11:43:13 [main] INFO  s.i.y.javatools.service.PizzaService - Pizza med id 1 uppdaterad
+2026-02-24 11:43:13 [main] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-24 11:43:13 [main] INFO  s.i.y.javatools.service.PizzaService - Pizza skapad med id: 1
+2026-02-24 11:43:13 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-24 11:43:13 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar pizza med id: 1
+2026-02-24 11:43:13 [main] WARN  s.i.y.javatools.service.PizzaService - Ingen pizza hittades med id: 1
+2026-02-24 11:43:13 [main] INFO  s.i.y.javatools.service.PizzaService - Uppdaterar pizza med id: 1
+2026-02-24 11:43:13 [main] WARN  s.i.y.javatools.service.PizzaService - Ingen pizza hittades med id: 1
+2026-02-24 11:43:13 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar pizza med id: 1
+2026-02-24 12:51:15 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 4927 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 12:51:15 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 12:51:17 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 2.156 seconds (process running for 2.925)
+2026-02-24 12:59:53 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 5010 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 12:59:53 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 12:59:54 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 2.039 seconds (process running for 2.895)
+2026-02-24 13:08:34 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 5111 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 13:08:34 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 13:08:36 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 1.898 seconds (process running for 2.556)
+2026-02-24 13:29:36 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 5894 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 13:29:36 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 13:29:52 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 5902 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 13:29:52 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 13:58:40 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 6989 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 13:58:40 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 13:58:40 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 6991 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 13:58:40 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 13:58:42 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 2.538 seconds (process running for 3.474)
+2026-02-24 13:58:42 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 2.475 seconds (process running for 3.297)
+2026-02-24 13:58:43 [main] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-24 13:58:43 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: namn 'Hawaii
+2026-02-24 13:58:43 [main] ERROR s.i.y.j.validator.PizzaValidator - Validering misslyckades: topping kan inte vara tomt
+2026-02-24 13:58:44 [main] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-24 13:58:44 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: namn 'Hawaii
+2026-02-24 13:58:44 [main] ERROR s.i.y.j.validator.PizzaValidator - Validering misslyckades: topping kan inte vara tomt
+2026-02-24 14:02:07 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 7030 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 14:02:07 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 14:02:09 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 2.112 seconds (process running for 2.949)
+2026-02-24 14:02:09 [main] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-24 14:02:09 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: namn 'Hawaii
+2026-02-24 14:02:09 [main] ERROR s.i.y.j.validator.PizzaValidator - Validering misslyckades: topping kan inte vara tomt
+2026-02-24 14:02:09 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar pizza med id: 1
+2026-02-24 14:02:09 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-24 14:04:29 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 7069 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 14:04:29 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 14:04:31 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 2.005 seconds (process running for 2.561)
+2026-02-24 14:04:31 [main] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-24 14:04:31 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: namn 'Hawaii
+2026-02-24 14:04:31 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: topping 'Skinka & Ananas
+2026-02-24 14:04:31 [main] ERROR s.i.y.j.validator.PizzaValidator - Validering misslyckades: ost kan inte vara tomt
+2026-02-24 14:04:31 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar pizza med id: 1
+2026-02-24 14:04:32 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-24 14:05:07 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 7083 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 14:05:07 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 14:05:08 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 2.009 seconds (process running for 2.562)
+2026-02-24 14:05:09 [main] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-24 14:05:09 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: namn 'Hawaii
+2026-02-24 14:05:09 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: topping 'Skinka & Ananas
+2026-02-24 14:05:09 [main] ERROR s.i.y.j.validator.PizzaValidator - Validering misslyckades: ost kan inte vara tomt
+2026-02-24 14:07:02 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 7100 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 14:07:02 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 14:07:04 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 2.044 seconds (process running for 2.58)
+2026-02-24 14:07:04 [main] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-24 14:07:04 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: namn 'Hawaii
+2026-02-24 14:07:04 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: topping 'Skinka & Ananas
+2026-02-24 14:07:04 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: ost 'Ja
+2026-02-24 14:07:04 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: pris 89
+2026-02-24 14:07:04 [main] INFO  s.i.y.javatools.service.PizzaService - Pizza skapad med id: 1
+2026-02-24 17:38:35 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 1776 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 17:38:35 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 17:38:36 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 2.043 seconds (process running for 2.7)
+2026-02-24 17:38:37 [main] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-24 17:38:37 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: namn 'Hawaii
+2026-02-24 17:38:37 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: topping 'Skinka & Ananas
+2026-02-24 17:38:37 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: ost 'Ja
+2026-02-24 17:38:37 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: pris 89
+2026-02-24 17:38:37 [main] INFO  s.i.y.javatools.service.PizzaService - Pizza skapad med id: 1
+2026-02-24 17:38:37 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar pizza med id: 2
+2026-02-24 17:38:37 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
+2026-02-24 17:55:46 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 1950 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 17:55:46 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 17:55:48 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 2.245 seconds (process running for 2.9)
+2026-02-24 17:55:48 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar pizza med id: 1
+2026-02-24 18:00:43 [main] INFO  s.i.y.j.c.Integrationstester - Starting Integrationstester using Java 24.0.2 with PID 1993 (started by jakob in /Users/jakob/java-projects/hello-world/iths/project-3.1.Jakob)
+2026-02-24 18:00:43 [main] INFO  s.i.y.j.c.Integrationstester - No active profile set, falling back to 1 default profile: "default"
+2026-02-24 18:00:44 [main] INFO  s.i.y.j.c.Integrationstester - Started Integrationstester in 1.918 seconds (process running for 2.574)
+2026-02-24 18:00:45 [main] INFO  s.i.y.javatools.service.PizzaService - Skapar ny pizza: Hawaii
+2026-02-24 18:00:45 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: namn 'Hawaii
+2026-02-24 18:00:45 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: topping 'Skinka & Ananas
+2026-02-24 18:00:45 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: ost 'Ja
+2026-02-24 18:00:45 [main] INFO  s.i.y.j.validator.PizzaValidator - Validering OK: pris 89
+2026-02-24 18:00:45 [main] INFO  s.i.y.javatools.service.PizzaService - Pizza skapad med id: 1
+2026-02-24 18:00:45 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar pizza med id: 2
+2026-02-24 18:00:45 [main] INFO  s.i.y.javatools.service.PizzaService - Hämtar alla pizzor
