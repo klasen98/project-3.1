@@ -10,9 +10,10 @@ import se.iths.yunus.javatools.service.PizzaService;
 @RequestMapping("/pizzas")
 public class PizzaController {
 
-
+    // dependency injection
     private final PizzaService pizzaService;
 
+    //konstruktor
     public PizzaController(PizzaService pizzaService) {
         this.pizzaService = pizzaService;
     }
@@ -45,8 +46,7 @@ public class PizzaController {
         pizzaService.createPizza(pizza);
 
         return "redirect:/pizzas";
-
-
+        
     }
 
     @PutMapping("/{id}")

@@ -136,7 +136,7 @@ public class PizzaServiceTest {
 
     }
 
-    // EXCEPTIONS TESTER
+    // exceptions tester
 
     @Test
     void getPizzaExceptionWhenNotFound() {

@@ -6,19 +6,22 @@ import jakarta.persistence.*;
 @Table(name = "pizza")
 public class Pizza {
 
-
+    //primärnyckel
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    // tom konstruktor JPA
     public Pizza() {
     }
 
+    // attribut
     private String name;
     private String topping;
     private String cheese;
     private int price;
 
+    // konstruktorer
     public Pizza(Long id, String name, String topping, String cheese, int price) {
         this.id = id;
         this.name = name;
